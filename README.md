@@ -4,3 +4,4 @@
 ## General Information-
 This project is a prototype showcasing the industrial application of OpenCV associated with Universal Robot(UR5e).
 - Components used - Raspberry Pi(4B), Webcam(Any webcame more than 5 MP), Servomotor(MG 995)
+- Industrial applications such as Pick and place task w.r.t. Universal Robot.
